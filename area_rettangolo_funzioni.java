@@ -1,3 +1,5 @@
+//RICHIEDE IL FILE “f.java”
+
 class area_rettangolo_funzioni
 {
   public static void main(String args[])
