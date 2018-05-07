@@ -1,3 +1,5 @@
+//RICHIEDE IL FILE “f.java”
+
 class gioco_random
 {
   public static void main(String args[])
