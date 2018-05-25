@@ -1,4 +1,4 @@
-//Richiede il file f.java
+//RICHIEDE IL FILE “f.java”
 
 class array_ordina-cercaparole_ingenuo.java
 {
